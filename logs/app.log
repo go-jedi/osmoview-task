@@ -1,0 +1,16 @@
+{"level":"info","timestamp":"2024-04-20T14:32:40.249+0300","msg":"Logger is running"}
+{"level":"error","timestamp":"2024-04-20T14:32:40.249+0300","msg":"Ошибка изменения поля data1","error":"поле Names не найдено","errorVerbose":"поле Names не найдено\ngithub.com/go-jedi/osmoview-task/pkg/changeField.ChangeField\n\t/home/go-jedi/Job/work/tasks/osmoview-task/pkg/changeField/changeField.go:22\nmain.main\n\t/home/go-jedi/Job/work/tasks/osmoview-task/cmd/task/main.go:39\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:271\nruntime.goexit\n\t/usr/local/go/src/runtime/asm_amd64.s:1695"}
+{"level":"info","timestamp":"2024-04-20T14:33:09.622+0300","msg":"Logger is running"}
+{"level":"error","timestamp":"2024-04-20T14:33:09.622+0300","msg":"Ошибка изменения поля data1","error":"поле Names не найдено","errorVerbose":"поле Names не найдено\ngithub.com/go-jedi/osmoview-task/pkg/changeField.ChangeField\n\t/home/go-jedi/Job/work/tasks/osmoview-task/pkg/changeField/changeField.go:22\nmain.main\n\t/home/go-jedi/Job/work/tasks/osmoview-task/cmd/task/main.go:39\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:271\nruntime.goexit\n\t/usr/local/go/src/runtime/asm_amd64.s:1695"}
+{"level":"info","timestamp":"2024-04-20T14:34:36.209+0300","msg":"Logger is running"}
+{"level":"error","timestamp":"2024-04-20T14:34:36.209+0300","msg":"Ошибка изменения поля data1","error":"поле Names не найдено","errorVerbose":"поле Names не найдено\ngithub.com/go-jedi/osmoview-task/pkg/changeField.ChangeField\n\t/home/go-jedi/Job/work/tasks/osmoview-task/pkg/changeField/changeField.go:22\nmain.main\n\t/home/go-jedi/Job/work/tasks/osmoview-task/cmd/task/main.go:39\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:271\nruntime.goexit\n\t/usr/local/go/src/runtime/asm_amd64.s:1695"}
+{"level":"info","timestamp":"2024-04-20T14:38:47.159+0300","msg":"Logger is running"}
+{"level":"error","timestamp":"2024-04-20T14:38:47.159+0300","msg":"поле Names не найдено"}
+{"level":"error","timestamp":"2024-04-20T14:38:47.159+0300","msg":"Ошибка изменения поля data1","error":"поле Names не найдено","errorVerbose":"поле Names не найдено\ngithub.com/go-jedi/osmoview-task/pkg/changeField.ChangeField\n\t/home/go-jedi/Job/work/tasks/osmoview-task/pkg/changeField/changeField.go:27\nmain.main\n\t/home/go-jedi/Job/work/tasks/osmoview-task/cmd/task/main.go:39\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:271\nruntime.goexit\n\t/usr/local/go/src/runtime/asm_amd64.s:1695"}
+{"level":"info","timestamp":"2024-04-20T14:39:32.512+0300","msg":"Logger is running"}
+{"level":"error","timestamp":"2024-04-20T14:39:32.512+0300","msg":"поле Names не найдено"}
+{"level":"error","timestamp":"2024-04-20T14:39:32.512+0300","msg":"Ошибка изменения поля data1"}
+{"level":"info","timestamp":"2024-04-20T14:39:39.440+0300","msg":"Logger is running"}
+{"level":"info","timestamp":"2024-04-20T14:52:02.626+0300","msg":"Logger is running"}
+{"level":"info","timestamp":"2024-04-20T14:57:40.029+0300","msg":"Logger is running"}
+{"level":"info","timestamp":"2024-04-20T14:58:16.542+0300","msg":"Logger is running"}
